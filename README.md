@@ -102,7 +102,7 @@ Three deep learning models were implemented:
 
 ---
 
-## ⚙️ Installation & Usage
+## ⚙️ Installation & Usage 
 
 ### 🧩 Requirements
 Ensure you have the following installed:
@@ -125,19 +125,24 @@ python src/train_lstm.py
 
 
 To evaluate the trained model:
-python src/evaluate.py
+python src/evaluate.py 
 
-👥 Authors
+```
+
+## 👥 Authors
+
 Western University — Department of Electrical and Computer Engineering
-Name	Email
-James Zhong	pzhong22@uwo.ca
-Xi Feng	xfeng269@uwo.ca
-Wenyi Yao	wyao45@uwo.ca
-Yanhua Zhang	yzha5778@uwo.ca
-Zelin Zhang	zzha973@uwo.ca
 
-📚 Citation
+- James Zhong — pzhong22@uwo.ca  
+- Xi Feng — xfeng269@uwo.ca  
+- Wenyi Yao — wyao45@uwo.ca  
+- Yanhua Zhang — yzha5778@uwo.ca  
+- Zelin Zhang — zzha973@uwo.ca
+
+---
+## 📚 Citation
 If you use this work in your research, please cite:
 Zhang, Y., Zhong, J., Feng, X., Yao, W., & Zhang, Z. (2025).
 Cryptocurrency Price Forecasting Engine Using LSTM with On-Chain Uniswap Data.
 Western University, London, Canada.
+
