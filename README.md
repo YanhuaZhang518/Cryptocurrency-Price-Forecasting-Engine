@@ -102,23 +102,6 @@ Three deep learning models were implemented:
 
 ---
 
-## 📂 Project Structure
-Cryptocurrency-Price-Forecasting-Engine/
-│
-├── data/ # On-chain data from Uniswap v3 (JSON/CSV)
-├── models/ # Saved model weights and architectures
-├── notebooks/ # Jupyter notebooks for experiments
-├── src/
-│ ├── data_fetch.py # GraphQL data extraction from The Graph
-│ ├── preprocess.py # Data cleaning and feature engineering
-│ ├── train_lstm.py # LSTM model training
-│ ├── train_gru.py # GRU model training
-│ ├── train_transformer.py # Transformer training
-│ └── evaluate.py # Model evaluation and metrics
-└── README.md
-
----
-
 ## ⚙️ Installation & Usage
 
 ### 🧩 Requirements
